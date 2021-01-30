@@ -8,7 +8,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mildsalmon&count_private=false&show_icons=true)](https://github.com/mildsalmon)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mildsalmon)](https://github.com/mildsalmon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mildsalmon&hide=html)](https://github.com/mildsalmon)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmildsalmon)](https://hits.seeyoufarm.com)
 
