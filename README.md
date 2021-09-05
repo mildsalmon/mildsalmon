@@ -8,11 +8,11 @@
 ### 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
-- [파이썬 문자열과 리스트의 슬라이스](https://example.com/@mildsalmon/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4)
-- [[이.취.코] Chap 10. 그래프 이론 - 도시 분할 계획](https://example.com/@mildsalmon/%EC%9D%B4%EC%B7%A8%EC%BD%94-chap-10-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%9D%B4%EB%A1%A0-%EB%8F%84%EC%8B%9C-%EB%B6%84%ED%95%A0-%EA%B3%84%ED%9A%8D)
-- [[이.취.코] Chap 10. 그래프 이론 - 팀 결성](https://example.com/@mildsalmon/%EC%9D%B4%EC%B7%A8%EC%BD%94-chap-10-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%9D%B4%EB%A1%A0-%ED%8C%80-%EA%B2%B0%EC%84%B1)
-- [행군과 뜀걸음에서 배우는 기본기와 협력](https://example.com/@mildsalmon/%ED%96%89%EA%B5%B0%EA%B3%BC-%EB%9C%80%EA%B1%B8%EC%9D%8C%EC%97%90%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EA%B8%B0%EB%B3%B8%EA%B8%B0%EC%99%80-%ED%98%91%EB%A0%A5)
-- [[이.취.코] 위상 정렬 (Topology Sort)](https://example.com/@mildsalmon/%EC%9C%84%EC%83%81-%EC%A0%95%EB%A0%AC-topology-sort)
+- [[Programmers] 위클리 챌린지 - 1주차](https://example.com/@mildsalmon/%EC%9C%84%ED%81%B4%EB%A6%AC-%EC%B1%8C%EB%A6%B0%EC%A7%80-1%EC%A3%BC%EC%B0%A8)
+- [[백준] 2750번 - 수 정렬하기](https://example.com/@mildsalmon/2750%EB%B2%88-%EC%88%98-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
+- [[백준] 1065번 - 한수](https://example.com/@mildsalmon/1065%EB%B2%88-%ED%95%9C%EC%88%98)
+- [[이.취.코] Chap 11. 그리드 - Q1. 모험가 길드](https://example.com/@mildsalmon/chap-11-%EA%B7%B8%EB%A6%AC%EB%93%9C-q1-%EB%AA%A8%ED%97%98%EA%B0%80-%EA%B8%B8%EB%93%9C)
+- [[이.취.코] Chap 10. 그래프 이론 - 커리큘럼](https://example.com/@mildsalmon/chap-10-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%9D%B4%EB%A1%A0-%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📑 깃헙 활동을 간단하게 요약했어요.
