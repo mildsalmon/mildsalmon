@@ -8,11 +8,11 @@
 ### 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
-- [[Programmers] 위클리 챌린지 - 1주차](https://example.com/@mildsalmon/%EC%9C%84%ED%81%B4%EB%A6%AC-%EC%B1%8C%EB%A6%B0%EC%A7%80-1%EC%A3%BC%EC%B0%A8)
+- [[9월 1주차] 주간 일지 정리](https://example.com/@mildsalmon/210829-210%E1%84%868%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC904)
+- [[Programmers] 위클리 챌린지 - 1주차 - 부족한 금액 계산하기](https://example.com/@mildsalmon/%EC%9C%84%ED%81%B4%EB%A6%AC-%EC%B1%8C%EB%A6%B0%EC%A7%80-1%EC%A3%BC%EC%B0%A8)
 - [[백준] 2750번 - 수 정렬하기](https://example.com/@mildsalmon/2750%EB%B2%88-%EC%88%98-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
 - [[백준] 1065번 - 한수](https://example.com/@mildsalmon/1065%EB%B2%88-%ED%95%9C%EC%88%98)
 - [[이.취.코] Chap 11. 그리드 - Q1. 모험가 길드](https://example.com/@mildsalmon/chap-11-%EA%B7%B8%EB%A6%AC%EB%93%9C-q1-%EB%AA%A8%ED%97%98%EA%B0%80-%EA%B8%B8%EB%93%9C)
-- [[이.취.코] Chap 10. 그래프 이론 - 커리큘럼](https://example.com/@mildsalmon/chap-10-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%9D%B4%EB%A1%A0-%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📑 깃헙 활동을 간단하게 요약했어요.
