@@ -8,11 +8,11 @@
 ### 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [[백준] 1312번 - 소수](https://blex.me/@mildsalmon/%EB%B0%B1%EC%A4%80-1312%EB%B2%88-%EC%86%8C%EC%88%98)
 - [[9월 2주차] 주간 일지 정리](https://blex.me/@mildsalmon/9%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [왜 살아야 할까, 어떻게 살아야 할까 ❔](https://blex.me/@mildsalmon/%EC%99%9C-%EC%82%B4%EC%95%84%EC%95%BC-%ED%95%A0%EA%B9%8C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%82%B4%EC%95%84%EC%95%BC-%ED%95%A0%EA%B9%8C)
 - [[백준] 10972번 - 다음 순열](https://blex.me/@mildsalmon/10972%EB%B2%88-%EB%8B%A4%EC%9D%8C-%EC%88%9C%EC%97%B4)
 - [[백준] 2294번 - 동전 2](https://blex.me/@mildsalmon/%EB%B0%B1%EC%A4%80-2294%EB%B2%88-%EB%8F%99%EC%A0%84-2)
-- [[백준] 2108번 - 통계학](https://blex.me/@mildsalmon/%EB%B0%B1%EC%A4%80-2108%EB%B2%88-%ED%86%B5%EA%B3%84%ED%95%99)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📑 깃헙 활동을 간단하게 요약했어요.
