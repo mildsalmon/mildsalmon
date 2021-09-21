@@ -1,3 +1,7 @@
+> 아래 블로그에도 업데이트하고 있어요 !
+>
+> https://blex.me/@mildsalmon/doit-%EC%98%A4%EB%9D%BC%ED%81%B4%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9E%85%EB%AC%B8
+
 # 1. 데이터베이스 개념 잡기
 
 ### A. 데이터베이스
