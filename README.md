@@ -8,11 +8,11 @@
 ### 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [정보처리기사를 준비해보자.](https://blex.me/@mildsalmon/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%B4%EB%B3%B4%EC%9E%90)
+- [오라클 데이터베이스와 도구 프로그램 설치](https://blex.me/@mildsalmon/%EC%98%A4%EB%9D%BC%ED%81%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%99%80-%EB%8F%84%EA%B5%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%84%A4%EC%B9%98)
 - [[이.취.코] [백준] Chap 13. BFS_DFS - Q17. 경쟁적 전염](https://blex.me/@mildsalmon/%EC%9D%B4%EC%B7%A8%EC%BD%94-%EB%B0%B1%EC%A4%80-chap-13-bfs_dfs-q17-%EA%B2%BD%EC%9F%81%EC%A0%81-%EC%A0%84%EC%97%BC)
 - [[이.취.코] [백준] Chap 13. BFS_DFS - Q16. 연구소](https://blex.me/@mildsalmon/%EC%9D%B4%EC%B7%A8%EC%BD%94-%EB%B0%B1%EC%A4%80-chap-13-bfs_dfs-q16-%EC%97%B0%EA%B5%AC%EC%86%8C)
 - [남과 비교하지 말자](https://blex.me/@mildsalmon/%EB%82%A8%EA%B3%BC-%EB%B9%84%EA%B5%90%ED%95%98%EC%A7%80-%EB%A7%90%EC%9E%90)
-- [[Django] 파이썬 웹 프로그래밍](https://blex.me/@mildsalmon/django-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
-- [[이.취.코] [백준] Chap 13. BFS - Q15.  특정 거리의 도시 찾기](https://blex.me/@mildsalmon/%EC%9D%B4%EC%B7%A8%EC%BD%94-%EB%B0%B1%EC%A4%80-chap-13-bfs-q14-%ED%8A%B9%EC%A0%95-%EA%B1%B0%EB%A6%AC%EC%9D%98-%EB%8F%84%EC%8B%9C-%EC%B0%BE%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📑 깃헙 활동을 간단하게 요약했어요.
