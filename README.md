@@ -8,11 +8,11 @@
 ### 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [더 정확하고 다양하게 결과를 출력하는 WHERE절과 연산자](https://blex.me/@mildsalmon/%EB%8D%94-%EC%A0%95%ED%99%95%ED%95%98%EA%B3%A0-%EB%8B%A4%EC%96%91%ED%95%98%EA%B2%8C-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EC%B6%9C%EB%A0%A5%ED%95%98%EB%8A%94-where%EC%A0%88%EA%B3%BC-%EC%97%B0%EC%82%B0%EC%9E%90)
 - [[생활코딩] WEB](https://blex.me/@mildsalmon/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-web)
 - [[WEB] 인터넷](https://blex.me/@mildsalmon/%EC%9D%B8%ED%84%B0%EB%84%B7)
 - [데이터 베이스에 대해 공부해보자.](https://blex.me/@mildsalmon/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B3%B5%EB%B6%80%ED%95%B4%EB%B3%B4%EC%9E%90)
 - [Web을 공부하면서 알아가는 중](https://blex.me/@mildsalmon/web%EC%9D%84-%EA%B3%B5%EB%B6%80%ED%95%98%EB%A9%B4%EC%84%9C-%EC%95%8C%EC%95%84%EA%B0%80%EB%8A%94-%EC%A4%91)
-- [[WEB] HTML 기초](https://blex.me/@mildsalmon/html-%EA%B8%B0%EC%B4%88)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📑 깃헙 활동을 간단하게 요약했어요.
