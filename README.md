@@ -54,7 +54,7 @@
 </a> -->
     
 <a href="https://mildsalmon.notion.site/c6540c28f55a4d90b4d2dcb181e15307">
-    <img src="https://img.shields.io/badge/Resume-orange?style=plastic&logo=🎏">
+    <img src="https://img.shields.io/badge/Resume-orange?style=plastic&logo=Notion">
 </a>
     
 
