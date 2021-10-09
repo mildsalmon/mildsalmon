@@ -1,6 +1,6 @@
 ### 📡 이런 분야에 관심 있어요.
 
-- 데이터
+- 데이터 엔지니어
 - 백엔드 개발
 - 자동화
 - 패턴 분석
@@ -28,12 +28,35 @@
 <p>
 
 <a href="https://blex.me/@mildsalmon">
-    <img src="http://img.shields.io/badge/BLOG-black?style=flat-square&logo=bloglovin">
+    <img src="http://img.shields.io/badge/BLOG-black?style=plastic&logo=bloglovin">
 </a>
 
 <a href="https://solved.ac/profile/mildsalmon">
-    <img src="http://img.shields.io/badge/backjoon-blueviolet?logo=Experts Exchange">
+    <img src="http://img.shields.io/badge/backjoon-blueviolet?style=plastic">
 </a>
+
+### 📜 제 이력서에요 !
+
+<!-- <a href="https://mildsalmon.notion.site/c6540c28f55a4d90b4d2dcb181e15307">
+    <img src="https://img.shields.io/badge/Resume-orange?style=social&logo=MailChimp">
+</a>
+
+<a href="https://mildsalmon.notion.site/c6540c28f55a4d90b4d2dcb181e15307">
+    <img src="https://img.shields.io/badge/Resume-orange?style=plastic&logo=MailChimp">
+</a>
+    
+<a href="https://mildsalmon.notion.site/c6540c28f55a4d90b4d2dcb181e15307">
+    <img src="https://img.shields.io/badge/Resume-orange?style=plastic&logo=Jordan">
+</a>
+    
+<a href="https://mildsalmon.notion.site/c6540c28f55a4d90b4d2dcb181e15307">
+    <img src="https://img.shields.io/badge/Resume-orange?style=plastic&logo=GreenSock">
+</a> -->
+    
+<a href="https://mildsalmon.notion.site/c6540c28f55a4d90b4d2dcb181e15307">
+    <img src="https://img.shields.io/badge/Resume-orange?style=plastic&logo=🎏">
+</a>
+    
 
 <p>
 <br>
