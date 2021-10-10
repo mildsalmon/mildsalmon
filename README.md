@@ -8,11 +8,11 @@
 ### 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [1 Wave당 128 Sample의 세부적인 전처리](https://blex.me/@mildsalmon/1-wave%EB%8B%B9-128-sample%EC%9D%98-%EC%84%B8%EB%B6%80%EC%A0%81%EC%9D%B8-%EC%A0%84%EC%B2%98%EB%A6%AC)
+- [1 Wave당 128 Sample](https://blex.me/@mildsalmon/1-wave%EB%8B%B9-128-sample)
 - [[10월 1주차] 주간 일지 정리](https://blex.me/@mildsalmon/10%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [[이.취.코] Chap 15. 이진탐색 - Q27. 정렬된 배열에서 특정 수의 개수 구하기](https://blex.me/@mildsalmon/%EC%9D%B4%EC%B7%A8%EC%BD%94-chap-15-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-q27-%EC%A0%95%EB%A0%AC%EB%90%9C-%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C-%ED%8A%B9%EC%A0%95-%EC%88%98%EC%9D%98-%EA%B0%9C%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0)
 - [[이.취.코] [백준] Chap 14. 정렬 - Q26. 카드 정렬하기](https://blex.me/@mildsalmon/%EC%9D%B4%EC%B7%A8%EC%BD%94-%EB%B0%B1%EC%A4%80-chap-14-%EC%A0%95%EB%A0%AC-q26-%EC%B9%B4%EB%93%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
-- [[이.취.코] [프로그래머스] Chap 14. 정렬 - Q25. 실패율](https://blex.me/@mildsalmon/%EC%9D%B4%EC%B7%A8%EC%BD%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-chap-14-%EC%A0%95%EB%A0%AC-q25-%EC%8B%A4%ED%8C%A8%EC%9C%A8)
-- [[9월 5주차] 주간 일지 정리](https://blex.me/@mildsalmon/9%EC%9B%94-5%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📑 깃헙 활동을 간단하게 요약했어요.
