@@ -8,11 +8,11 @@
 ### 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [[이.취.코] Chap 15. 이진탐색 - Q28. 고정점 찾기](https://blex.me/@mildsalmon/%EC%9D%B4%EC%B7%A8%EC%BD%94-chap-15-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-%EA%B3%A0%EC%A0%95%EC%A0%90-%EC%B0%BE%EA%B8%B0)
 - [[프로그래머스] 2021 Dev-Matching - 헤비 유저가 소유한 장소](https://blex.me/@mildsalmon/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-2021-dev-matching-%ED%97%A4%EB%B9%84-%EC%9C%A0%EC%A0%80%EA%B0%80-%EC%86%8C%EC%9C%A0%ED%95%9C-%EC%9E%A5%EC%86%8C)
 - [[프로그래머스] 연습문제 - 오랜 기간 보호한 동물(2)](https://blex.me/@mildsalmon/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-%EC%98%A4%EB%9E%9C-%EA%B8%B0%EA%B0%84-%EB%B3%B4%ED%98%B8%ED%95%9C-%EB%8F%99%EB%AC%BC2)
 - [[프로그래머스] 2021 Dev-Matching - 행렬 테두리 회전하기](https://blex.me/@mildsalmon/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-2021-dev-matching-%ED%96%89%EB%A0%AC-%ED%85%8C%EB%91%90%EB%A6%AC-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)
 - [[프로그래머스] 위클리 챌린지 - 2주차 - 상호평가](https://blex.me/@mildsalmon/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9C%84%ED%81%B4%EB%A6%AC-%EC%B1%8C%EB%A6%B0%EC%A7%80-2%EC%A3%BC%EC%B0%A8-%EC%83%81%ED%98%B8%ED%8F%89%EA%B0%80)
-- [🩸🩺 [졸업작품] 인공지능 기반 개인용 혈압 모니터링 시스템](https://blex.me/@mildsalmon/%EC%A1%B8%EC%97%85%EC%9E%91%ED%92%88-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B8%B0%EB%B0%98-%EA%B0%9C%EC%9D%B8%EC%9A%A9-%ED%98%88%EC%95%95-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📑 깃헙 활동을 간단하게 요약했어요.
