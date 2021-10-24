@@ -8,11 +8,11 @@
 ### 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [Chap 16. DP - Q32. 정수 삼각형](https://blex.me/@mildsalmon/chap-16-dp-q32-%EC%A0%95%EC%88%98-%EC%82%BC%EA%B0%81%ED%98%95)
 - [[10월 3주차] 주간 일지 정리](https://blex.me/@mildsalmon/10%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [빅데이터를 지탱하는 기술 - 빅데이터의 정착](https://blex.me/@mildsalmon/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98-%EC%A0%95%EC%B0%A9)
 - [[Book] 빅데이터를 지탱하는 기술](https://blex.me/@mildsalmon/book-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0)
 - [빅데이터를 지탱하는 기술 - 이 책에 대하여](https://blex.me/@mildsalmon/book-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-%EC%A0%95%EB%A6%AC)
-- [빅데이터란 무엇일까?](https://blex.me/@mildsalmon/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📑 깃헙 활동을 간단하게 요약했어요.
