@@ -8,11 +8,11 @@
 ### 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Book] 빅데이터를 지탱하는 기술 - 정리](https://blex.me/@mildsalmon/book-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-%EC%A0%95%EB%A6%AC)
+- [빅데이터란 무엇일까?](https://blex.me/@mildsalmon/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 - [Chap 16. DP - Q31. 금광](https://blex.me/@mildsalmon/chap-16-dp-q31-%EA%B8%88%EA%B4%91)
 - [시험장에 몰래 가져갈 이경오의 SQL+SQLD 비밀노트](https://blex.me/@mildsalmon/%EC%9D%B4%EA%B2%BD%EC%98%A4%EC%9D%98-sqlsqld-%EB%B9%84%EB%B0%80%EB%85%B8%ED%8A%B8)
 - [[10월 2주차] 주간 일지 정리](https://blex.me/@mildsalmon/10%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
-- [코딩테스트 후기](https://blex.me/@mildsalmon/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%9B%84%EA%B8%B0)
-- [Summer/Winter Coding(2019) - 우유와 요거트가 담긴 장바구니](https://blex.me/@mildsalmon/summerwinter-coding2019-%EC%9A%B0%EC%9C%A0%EC%99%80-%EC%9A%94%EA%B1%B0%ED%8A%B8%EA%B0%80-%EB%8B%B4%EA%B8%B4-%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📑 깃헙 활동을 간단하게 요약했어요.
