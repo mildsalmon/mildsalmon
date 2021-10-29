@@ -27,7 +27,7 @@
 
 <p>
 
-<a href="https://blex.me/@mildsalmon">
+<a href="https://blex.me/@mildsalmon/series">
     <img src="http://img.shields.io/badge/BLOG-black?style=plastic&logo=bloglovin">
 </a>
 
