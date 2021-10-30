@@ -8,11 +8,11 @@
 ### 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [Chap 16. DP - Q35. 못생긴 수](https://blex.me/@mildsalmon/chap-16-dp-q35-%EB%AA%BB%EC%83%9D%EA%B8%B4-%EC%88%98)
 - [Chap 16. DP - Q34. 병사 배치하기](https://blex.me/@mildsalmon/chap-16-dp-q34-%EB%B3%91%EC%82%AC-%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)
 - [문자열에 비교연산자를 사용했을 때 만난 오류](https://blex.me/@mildsalmon/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90-%EB%B9%84%EA%B5%90%EC%97%B0%EC%82%B0%EC%9E%90%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%96%88%EC%9D%84-%EB%95%8C-%EB%A7%8C%EB%82%9C-%EC%98%A4%EB%A5%98)
 - [Chap 16. DP - Q33. 퇴사](https://blex.me/@mildsalmon/chap-16-dp-q33-%ED%87%B4%EC%82%AC)
 - [Chap 16. DP - Q32. 정수 삼각형](https://blex.me/@mildsalmon/chap-16-dp-q32-%EC%A0%95%EC%88%98-%EC%82%BC%EA%B0%81%ED%98%95)
-- [[10월 3주차] 주간 일지 정리](https://blex.me/@mildsalmon/10%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📑 깃헙 활동을 간단하게 요약했어요.
