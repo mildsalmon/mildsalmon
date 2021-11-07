@@ -8,11 +8,11 @@
 ### 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [이성과 감성 중에서 투자에서 가장 필요한 것은 무엇일까](https://blex.me/@mildsalmon/%EC%9D%B4%EC%84%B1%EA%B3%BC-%EA%B0%90%EC%84%B1-%EC%A4%91%EC%97%90%EC%84%9C-%ED%88%AC%EC%9E%90%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B2%83%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 - [[11월 1주차] 주간 일지 정리](https://blex.me/@mildsalmon/11%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [빅데이터를 지탱하는 기술 - 빅데이터 시대의 데이터 분석 기반](https://blex.me/@mildsalmon/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EB%8C%80%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B8%B0%EB%B0%98)
 - [[10월 4주차] 주간 일지 정리](https://blex.me/@mildsalmon/10%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [Chap 16. DP - Q35. 못생긴 수](https://blex.me/@mildsalmon/chap-16-dp-q35-%EB%AA%BB%EC%83%9D%EA%B8%B4-%EC%88%98)
-- [Chap 16. DP - Q34. 병사 배치하기](https://blex.me/@mildsalmon/chap-16-dp-q34-%EB%B3%91%EC%82%AC-%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📑 깃헙 활동을 간단하게 요약했어요.
