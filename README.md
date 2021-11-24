@@ -8,11 +8,11 @@
 ### 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [Chap 17. 최단경로 - Q37. 플로이드](https://blex.me/@mildsalmon/chap-17-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C-q37-%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C)
 - [Chap 16. DP - Q36. 편집 거리](https://blex.me/@mildsalmon/chap-16-dp-q36-%ED%8E%B8%EC%A7%91-%EA%B1%B0%EB%A6%AC)
 - [[11월 3주차] 주간 일지 정리](https://blex.me/@mildsalmon/11%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [[11월 2주차] 주간 일지 정리](https://blex.me/@mildsalmon/11%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [파이썬의 비트 연산자 분석](https://blex.me/@mildsalmon/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-%EB%B9%84%ED%8A%B8-%EC%97%B0%EC%82%B0%EC%9E%90-%EB%B6%84%EC%84%9D)
-- [이성과 감성 중에서 투자에서 가장 필요한 것은 무엇일까](https://blex.me/@mildsalmon/%EC%9D%B4%EC%84%B1%EA%B3%BC-%EA%B0%90%EC%84%B1-%EC%A4%91%EC%97%90%EC%84%9C-%ED%88%AC%EC%9E%90%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B2%83%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📑 깃헙 활동을 간단하게 요약했어요.
