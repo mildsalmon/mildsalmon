@@ -8,11 +8,11 @@
 ### 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [1946번 - 신입 사원](https://blex.me/@mildsalmon/1946%EB%B2%88-%EC%8B%A0%EC%9E%85-%EC%82%AC%EC%9B%90)
+- [11399번 - ATM](https://blex.me/@mildsalmon/11399%EB%B2%88-atm)
 - [Chap 17. 최단경로 - Q40. 숨바꼭질](https://blex.me/@mildsalmon/chap-17-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C-q40-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88)
 - [Chap 17. 최단경로 - Q39. 화성 탐사](https://blex.me/@mildsalmon/chap-17-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C-q39-%ED%99%94%EC%84%B1-%ED%83%90%EC%82%AC)
 - [Chap 17. 최단경로 - Q38. 정확한 순위](https://blex.me/@mildsalmon/chap-17-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C-q38-%EC%A0%95%ED%99%95%ED%95%9C-%EC%88%9C%EC%9C%84)
-- [Chap 17. 최단경로 - Q37. 플로이드](https://blex.me/@mildsalmon/chap-17-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C-q37-%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C)
-- [Chap 16. DP - Q36. 편집 거리](https://blex.me/@mildsalmon/chap-16-dp-q36-%ED%8E%B8%EC%A7%91-%EA%B1%B0%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📑 깃헙 활동을 간단하게 요약했어요.
