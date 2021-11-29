@@ -8,11 +8,11 @@
 ### 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [Chap 18. 그래프이론 - Q41. 여행 계획](https://blex.me/@mildsalmon/chap-18-%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%B4%EB%A1%A0-q41-%EC%97%AC%ED%96%89-%EA%B3%84%ED%9A%8D)
 - [[11월 4주차] 주간 일지 정리](https://blex.me/@mildsalmon/11%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [1946번 - 신입 사원](https://blex.me/@mildsalmon/1946%EB%B2%88-%EC%8B%A0%EC%9E%85-%EC%82%AC%EC%9B%90)
 - [11399번 - ATM](https://blex.me/@mildsalmon/11399%EB%B2%88-atm)
 - [Chap 17. 최단경로 - Q40. 숨바꼭질](https://blex.me/@mildsalmon/chap-17-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C-q40-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88)
-- [Chap 17. 최단경로 - Q39. 화성 탐사](https://blex.me/@mildsalmon/chap-17-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C-q39-%ED%99%94%EC%84%B1-%ED%83%90%EC%82%AC)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📑 깃헙 활동을 간단하게 요약했어요.
