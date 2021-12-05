@@ -8,11 +8,11 @@
 ### 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [[12월 1주차] 주간 일지 정리](https://blex.me/@mildsalmon/12%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [Chap 18. 그래프이론 - Q45. 최종 순위](https://blex.me/@mildsalmon/chap-18-%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%B4%EB%A1%A0-q45-%EC%B5%9C%EC%A2%85-%EC%88%9C%EC%9C%84)
 - [1283번 - 단축키 지정](https://blex.me/@mildsalmon/1283%EB%B2%88-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%A7%80%EC%A0%95)
 - [Chap 18. 그래프이론 - Q44. 행성 터널](https://blex.me/@mildsalmon/chap-18-%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%B4%EB%A1%A0-q44-%ED%96%89%EC%84%B1-%ED%84%B0%EB%84%90)
 - [Chap 18. 그래프이론 - Q43. 어두운 길](https://blex.me/@mildsalmon/chap-18-%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%B4%EB%A1%A0-q43-%EC%96%B4%EB%91%90%EC%9A%B4-%EA%B8%B8)
-- [Chap 18. 그래프이론 - Q42. 탑승구](https://blex.me/@mildsalmon/chap-18-%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%B4%EB%A1%A0-q42-%ED%83%91%EC%8A%B9%EA%B5%AC)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📑 깃헙 활동을 간단하게 요약했어요.
