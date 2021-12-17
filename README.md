@@ -11,11 +11,11 @@
 ### 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [자격증 취득기](https://blex.me/@mildsalmon/%EC%9E%90%EA%B2%A9%EC%A6%9D-%EC%B7%A8%EB%93%9D%EA%B8%B0)
 - [해시 - 위장](https://blex.me/@mildsalmon/%ED%95%B4%EC%8B%9C-%EC%9C%84%EC%9E%A5)
 - [해시 - 전화번호 목록](https://blex.me/@mildsalmon/%ED%95%B4%EC%8B%9C-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D)
 - [6603번 - 로또](https://blex.me/@mildsalmon/6603%EB%B2%88-%EB%A1%9C%EB%98%90)
 - [1339번 - 단어 수학](https://blex.me/@mildsalmon/1339%EB%B2%88-%EB%8B%A8%EC%96%B4-%EC%88%98%ED%95%99)
-- [2012번 - 등수 매기기](https://blex.me/@mildsalmon/2012%EB%B2%88-%EB%93%B1%EC%88%98-%EB%A7%A4%EA%B8%B0%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📑 깃헙 활동을 간단하게 요약했어요.
