@@ -15,11 +15,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [5567번 - 결혼식](https://blex.me/@mildsalmon/5567%EB%B2%88-%EA%B2%B0%ED%98%BC%EC%8B%9D)
 - [[12월 3주차] 주간 일지 정리](https://blex.me/@mildsalmon/12%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [SQLD를 취득해보자.](https://blex.me/@mildsalmon/sqld%EB%A5%BC-%EC%B7%A8%EB%93%9D%ED%95%B4%EB%B3%B4%EC%9E%90)
 - [자격증 취득기](https://blex.me/@mildsalmon/%EC%9E%90%EA%B2%A9%EC%A6%9D-%EC%B7%A8%EB%93%9D%EA%B8%B0)
 - [해시 - 위장](https://blex.me/@mildsalmon/%ED%95%B4%EC%8B%9C-%EC%9C%84%EC%9E%A5)
-- [해시 - 전화번호 목록](https://blex.me/@mildsalmon/%ED%95%B4%EC%8B%9C-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🖋 지식을 코드에 적용하여 정리해봤어요.
