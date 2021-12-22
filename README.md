@@ -1,3 +1,7 @@
+## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
+
+[Study/readme.md at master · mildsalmon/Study (github.com)](https://github.com/mildsalmon/Study/blob/master/readme.md)
+
 ## 📡 이런 분야에 관심 있어요.
 
 - 데이터
