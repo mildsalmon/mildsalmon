@@ -11,11 +11,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [Occupations](https://blex.me/@mildsalmon/occupations)
 - [10546번 - 배부른 마라토너](https://blex.me/@mildsalmon/10546%EB%B2%88-%EB%B0%B0%EB%B6%80%EB%A5%B8-%EB%A7%88%EB%9D%BC%ED%86%A0%EB%84%88)
 - [[12월 4주차] 주간 일지 정리](https://blex.me/@mildsalmon/12%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [21922번 - 학부 연구생 민상](https://blex.me/@mildsalmon/21922%EB%B2%88-%ED%95%99%EB%B6%80-%EC%97%B0%EA%B5%AC%EC%83%9D-%EB%AF%BC%EC%83%81)
 - [5567번 - 결혼식](https://blex.me/@mildsalmon/5567%EB%B2%88-%EA%B2%B0%ED%98%BC%EC%8B%9D)
-- [[12월 3주차] 주간 일지 정리](https://blex.me/@mildsalmon/12%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
