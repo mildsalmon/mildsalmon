@@ -11,11 +11,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [Heap - 디스크 컨트롤러](https://blex.me/@mildsalmon/heap-%EB%94%94%EC%8A%A4%ED%81%AC-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC)
 - [[1월 2주차] 주간 일지 정리](https://blex.me/@mildsalmon/1%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [오늘밤, 세계에서 이 사랑이 사라진다 해도](https://blex.me/@mildsalmon/%EC%98%A4%EB%8A%98%EB%B0%A4-%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C-%EC%9D%B4-%EC%82%AC%EB%9E%91%EC%9D%B4-%EC%82%AC%EB%9D%BC%EC%A7%84%EB%8B%A4-%ED%95%B4%EB%8F%84)
 - [[1월 1주차] 주간 일지 정리](https://blex.me/@mildsalmon/1%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [[12월 5주차] 주간 일지 정리](https://blex.me/@mildsalmon/12%EC%9B%94-5%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
-- [최종 결과 정리](https://blex.me/@mildsalmon/%EC%B5%9C%EC%A2%85-%EA%B2%B0%EA%B3%BC-%EC%A0%95%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
