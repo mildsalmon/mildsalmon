@@ -11,11 +11,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [수학](https://blex.me/@mildsalmon/%EC%88%98%ED%95%99)
+- [피보나치 수열](https://blex.me/@mildsalmon/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98%EC%97%B4)
 - [Top Competitors](https://blex.me/@mildsalmon/top-competitors)
 - [2252번 - 줄 세우기](https://blex.me/@mildsalmon/2252%EB%B2%88-%EC%A4%84-%EC%84%B8%EC%9A%B0%EA%B8%B0)
 - [[1월 3주차] 주간 일지 정리](https://blex.me/@mildsalmon/1%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC-1)
-- [Heap - 디스크 컨트롤러](https://blex.me/@mildsalmon/heap-%EB%94%94%EC%8A%A4%ED%81%AC-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC)
-- [[1월 2주차] 주간 일지 정리](https://blex.me/@mildsalmon/1%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
