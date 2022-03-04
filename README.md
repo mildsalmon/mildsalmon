@@ -11,11 +11,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [14499번 - 주사위 굴리기](https://blex.me/@mildsalmon/14499%EB%B2%88-%EC%A3%BC%EC%82%AC%EC%9C%84-%EA%B5%B4%EB%A6%AC%EA%B8%B0)
 - [[2월 4주차] 주간 일지 정리](https://blex.me/@mildsalmon/2%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [[2월 3주차] 주간 일지 정리](https://blex.me/@mildsalmon/2%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [2022 KAKAO BLIND RECRUITMENT - 파괴되지 않은 건물](https://blex.me/@mildsalmon/2022-kakao-blind-recruitment-%ED%8C%8C%EA%B4%B4%EB%90%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EA%B1%B4%EB%AC%BC)
 - [[2월 2주차] 주간 일지 정리](https://blex.me/@mildsalmon/2%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
-- [22859번 - HTML 파싱](https://blex.me/@mildsalmon/22859%EB%B2%88-html-%ED%8C%8C%EC%8B%B1)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
