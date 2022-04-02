@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [[3월 4주차] 주간 일지 정리](https://blex.me/@mildsalmon/3%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [[3월 3주차] 주간 일지 정리](https://blex.me/@mildsalmon/3%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC-1)
 - [[3월 3주차] 주간 일지 정리](https://blex.me/@mildsalmon/3%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [[3월 2주차] 주간 일지 정리](https://blex.me/@mildsalmon/3%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [[3월 1주차] 주간 일지 정리](https://blex.me/@mildsalmon/3%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
-- [14499번 - 주사위 굴리기](https://blex.me/@mildsalmon/14499%EB%B2%88-%EC%A3%BC%EC%82%AC%EC%9C%84-%EA%B5%B4%EB%A6%AC%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
