@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [s3](https://blex.me/@mildsalmon/s3)
+- [get_template_context](https://blex.me/@mildsalmon/get_template_context)
+- [MySQLToS3Operator](https://blex.me/@mildsalmon/mysqltos3operator)
 - [[Airflow] Airflow를 경험하며 생긴 의문들](https://blex.me/@mildsalmon/airflow-airflow%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%98%EB%A9%B0-%EC%83%9D%EA%B8%B4-%EC%9D%98%EB%AC%B8%EB%93%A4)
 - [[4월 1주차] 주간 일지 정리](https://blex.me/@mildsalmon/4%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
-- [파이썬 함수의 디폴트 매개변수는 호출 시점을 따르지 않는다.](https://blex.me/@mildsalmon/16-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%95%A8%EC%88%98%EC%9D%98-%EB%94%94%ED%8F%B4%ED%8A%B8-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EB%8A%94-%ED%98%B8%EC%B6%9C-%EC%8B%9C%EC%A0%90%EC%9D%84-%EB%94%B0%EB%A5%B4%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4)
-- [[3월 4주차] 주간 일지 정리](https://blex.me/@mildsalmon/3%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
-- [[3월 3주차] 주간 일지 정리](https://blex.me/@mildsalmon/3%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC-1)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
