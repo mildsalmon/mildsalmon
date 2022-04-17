@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [[4월 2주차] 주간 일지 정리](https://blex.me/@mildsalmon/4%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [s3](https://blex.me/@mildsalmon/s3)
 - [get_template_context](https://blex.me/@mildsalmon/get_template_context)
 - [MySQLToS3Operator](https://blex.me/@mildsalmon/mysqltos3operator)
 - [[Airflow] Airflow를 경험하며 생긴 의문들](https://blex.me/@mildsalmon/airflow-airflow%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%98%EB%A9%B0-%EC%83%9D%EA%B8%B4-%EC%9D%98%EB%AC%B8%EB%93%A4)
-- [[4월 1주차] 주간 일지 정리](https://blex.me/@mildsalmon/4%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
