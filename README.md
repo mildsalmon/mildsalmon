@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [[5월 1주차] 주간 일지 정리](https://blex.me/@mildsalmon/5%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC-1)
 - [[4월 4주차] 주간 일지 정리](https://blex.me/@mildsalmon/2022-5-2-%EC%98%A4%ED%9B%84-94152)
 - [[4월 2주차] 주간 일지 정리](https://blex.me/@mildsalmon/4%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
 - [s3](https://blex.me/@mildsalmon/s3)
 - [get_template_context](https://blex.me/@mildsalmon/get_template_context)
-- [MySQLToS3Operator](https://blex.me/@mildsalmon/mysqltos3operator)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
