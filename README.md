@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [[6월 3주차] 주간 일지 정리](https://blex.me/@mildsalmon/6%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC-1)
 - [[6월 2주차] 주간 일지 정리](https://blex.me/@mildsalmon/6%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC-1)
 - [[5월 4주차] 주간 일지 정리](https://blex.me/@mildsalmon/5%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC-1)
 - [김상형의 SQL 정복](https://blex.me/@mildsalmon/%EC%8B%9C%ED%97%98%EC%9E%A5%EC%97%90-%EB%AA%B0%EB%9E%98-%EA%B0%80%EC%A0%B8%EA%B0%88-%EC%9D%B4%EA%B2%BD%EC%98%A4%EC%9D%98-sqlsqld-%EB%B9%84%EB%B0%80%EB%85%B8%ED%8A%B8)
 - [[5월 3주차] 주간 일지 정리](https://blex.me/@mildsalmon/5%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC-1)
-- [[5월 1주차] 주간 일지 정리](https://blex.me/@mildsalmon/5%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC-1)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
