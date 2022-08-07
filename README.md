@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [python logger의 동작](https://blex.me/@mildsalmon/python-logger%EC%9D%98-%EB%8F%99%EC%9E%91)
 - [[7월 4주차] 주간 일지 정리](https://blex.me/@mildsalmon/7%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC-1)
 - [[7월 3주차] 주간 일지 정리](https://blex.me/@mildsalmon/7%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC-1)
 - [[7월 1주차] 주간 일지 정리](https://blex.me/@mildsalmon/7%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC-1)
 - [[6월 5주차] 주간 일지 정리](https://blex.me/@mildsalmon/7%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC)
-- [[6월 4주차] 주간 일지 정리](https://blex.me/@mildsalmon/6%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%EC%9D%BC%EC%A7%80-%EC%A0%95%EB%A6%AC-2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
