@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [s](https://blex.me/@mildsalmon/s)
 - [2022년 11월 2주차 회고](https://blex.me/@mildsalmon/2022%EB%85%84-11%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 - [2022년 11월 1주차 주간 회고](https://blex.me/@mildsalmon/2022-11-6-%EC%98%A4%EC%A0%84-80255)
 - [2022년 10월 4주차 주간 회고](https://blex.me/@mildsalmon/2022%EB%85%84-10%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0)
 - [2022년 10월 3주차 주간 회고](https://blex.me/@mildsalmon/2022%EB%85%84-10%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0)
-- [체크인 리얼밸리&lpar;한기용님&rpar; - 좋은 시니어들이 되기 위한 커리어 조언](https://blex.me/@mildsalmon/%EC%B2%B4%ED%81%AC%EC%9D%B8-%EB%A6%AC%EC%96%BC%EB%B0%B8%EB%A6%AC%ED%95%9C%EA%B8%B0%EC%9A%A9%EB%8B%98-%EC%A2%8B%EC%9D%80-%EC%8B%9C%EB%8B%88%EC%96%B4%EB%93%A4%EC%9D%B4-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%A1%B0%EC%96%B8)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
