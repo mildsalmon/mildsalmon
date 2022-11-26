@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [2022년 11월 4주차 회고](https://blex.me/@mildsalmon/2022%EB%85%84-11%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 - [2022년 11월 3주차 회고](https://blex.me/@mildsalmon/2022%EB%85%84-11%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 - [2022년 11월 2주차 회고](https://blex.me/@mildsalmon/2022%EB%85%84-11%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 - [2022년 11월 1주차 주간 회고](https://blex.me/@mildsalmon/2022-11-6-%EC%98%A4%EC%A0%84-80255)
 - [2022년 10월 4주차 주간 회고](https://blex.me/@mildsalmon/2022%EB%85%84-10%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0)
-- [2022년 10월 3주차 주간 회고](https://blex.me/@mildsalmon/2022%EB%85%84-10%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
