@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
-- [10. 2022년에 나는 얼마나 성장했을까?](https://blex.me/@mildsalmon/10-2022%EB%85%84%EC%97%90-%EB%82%98%EB%8A%94-%EC%96%BC%EB%A7%88%EB%82%98-%EC%84%B1%EC%9E%A5%ED%96%88%EC%9D%84%EA%B9%8C)
-- [전문가가 되기 위해서](https://blex.me/@mildsalmon/%EC%A0%84%EB%AC%B8%EA%B0%80%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%B4%EC%84%9C)
-- [2022년 11월 4주차 회고](https://blex.me/@mildsalmon/2022%EB%85%84-11%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
-- [2022년 11월 3주차 회고](https://blex.me/@mildsalmon/2022%EB%85%84-11%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
-- [2022년 11월 2주차 회고](https://blex.me/@mildsalmon/2022%EB%85%84-11%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
+- [11. 조금씩 알아간다는 건](https://blex.me/@mildsalmon/11-%EC%A1%B0%EA%B8%88%EC%94%A9-%EC%95%8C%EC%95%84%EA%B0%84%EB%8B%A4%EB%8A%94-%EA%B1%B4)
+- [8. 망한 행사에 대한 회고](https://blex.me/@mildsalmon/8-%EB%A7%9D%ED%95%9C-%ED%96%89%EC%82%AC%EC%97%90-%EB%8C%80%ED%95%9C-%ED%9A%8C%EA%B3%A0)
+- [6. 계획대로](https://blex.me/@mildsalmon/6-%EA%B3%84%ED%9A%8D%EB%8C%80%EB%A1%9C)
+- [5. 완벽한 나](https://blex.me/@mildsalmon/5-%EC%99%84%EB%B2%BD%ED%95%9C-%EB%82%98)
+- [4. 잘 하고 있을까?](https://blex.me/@mildsalmon/4-%EC%9E%98-%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
