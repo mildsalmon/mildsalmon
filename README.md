@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [# 12. 준비, 조준, 발사](https://blex.me/@mildsalmon/12-%EC%A4%80%EB%B9%84-%EC%A1%B0%EC%A4%80-%EB%B0%9C%EC%82%AC)
 - [11. 조금씩 알아간다는 건](https://blex.me/@mildsalmon/11-%EC%A1%B0%EA%B8%88%EC%94%A9-%EC%95%8C%EC%95%84%EA%B0%84%EB%8B%A4%EB%8A%94-%EA%B1%B4)
 - [8. 망한 행사에 대한 회고](https://blex.me/@mildsalmon/8-%EB%A7%9D%ED%95%9C-%ED%96%89%EC%82%AC%EC%97%90-%EB%8C%80%ED%95%9C-%ED%9A%8C%EA%B3%A0)
 - [6. 계획대로](https://blex.me/@mildsalmon/6-%EA%B3%84%ED%9A%8D%EB%8C%80%EB%A1%9C)
 - [5. 완벽한 나](https://blex.me/@mildsalmon/5-%EC%99%84%EB%B2%BD%ED%95%9C-%EB%82%98)
-- [4. 잘 하고 있을까?](https://blex.me/@mildsalmon/4-%EC%9E%98-%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
