@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Airflow 파먹기] airflow dags list](https://blex.me/@mildsalmon/airflow-%ED%8C%8C%EB%A8%B9%EA%B8%B0-airflow-dags-list)
 - [[Airflow 파먹기] airflow standalone](https://blex.me/@mildsalmon/airflow-%ED%8C%8C%EB%A8%B9%EA%B8%B0-airflow-standalone)
 - [[Airflow 파먹기] cli_parser](https://blex.me/@mildsalmon/airflow-%ED%8C%8C%EB%A8%B9%EA%B8%B0-cli_parser)
 - [[Airflow 파먹기] main - configuration](https://blex.me/@mildsalmon/airflow-%ED%8C%8C%EB%A8%B9%EA%B8%B0-main-configuration)
 - [[Airflow 파먹기] Airflow 코드의 main은?](https://blex.me/@mildsalmon/airflow-%ED%8C%8C%EB%A8%B9%EA%B8%B0-airflow-%EC%BD%94%EB%93%9C%EC%9D%98-main%EC%9D%80)
-- [[Airflow 파먹기] 시작 !](https://blex.me/@mildsalmon/airflow-%ED%8C%8C%EB%A8%B9%EA%B8%B0-%EC%8B%9C%EC%9E%91)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
