@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Airflow 개선 - DAG Factory] 2. DAG Factory](https://blex.me/@mildsalmon/airflow-%EA%B0%9C%EC%84%A0-dag-factory-2-dag-factory)
 - [[Airflow 개선 - DAG Factory] 1. 왜 하는가?](https://blex.me/@mildsalmon/airflow-%EA%B0%9C%EC%84%A0-dag-factory-1-%EC%99%9C-%ED%95%98%EB%8A%94%EA%B0%80-URWwNfWE)
 - [[Airflow 파먹기] airflow dags list](https://blex.me/@mildsalmon/airflow-%ED%8C%8C%EB%A8%B9%EA%B8%B0-airflow-dags-list)
 - [[Airflow 파먹기] airflow standalone](https://blex.me/@mildsalmon/airflow-%ED%8C%8C%EB%A8%B9%EA%B8%B0-airflow-standalone)
 - [[Airflow 파먹기] cli_parser](https://blex.me/@mildsalmon/airflow-%ED%8C%8C%EB%A8%B9%EA%B8%B0-cli_parser)
-- [[Airflow 파먹기] main - configuration](https://blex.me/@mildsalmon/airflow-%ED%8C%8C%EB%A8%B9%EA%B8%B0-main-configuration)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
