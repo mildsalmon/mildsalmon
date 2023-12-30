@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [[주간회고] 2023년 12월 52번째 주](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2023%EB%85%84-12%EC%9B%94-52%EB%B2%88%EC%A7%B8-%EC%A3%BC)
 - [Diving Into Delta Lake - Unpacking The Transaction Log](https://blex.me/@mildsalmon/diving-into-delta-lake-unpacking-the-transaction-log)
 - [Spark 맛보기 - 4. RDD, DataFrame, DataSet API](https://blex.me/@mildsalmon/spark-%EB%A7%9B%EB%B3%B4%EA%B8%B0-4-rdd-dataframe-dataset-api)
 - [Spark 맛보기 - 3. transformation, action, lazy evaluation](https://blex.me/@mildsalmon/spark-%EB%A7%9B%EB%B3%B4%EA%B8%B0-3-transformation-action-lazy-evalu)
 - [[requests 라이브러리] 내가 아는 timeout은 너무 추상적이였어..](https://blex.me/@mildsalmon/requests-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%82%B4%EA%B0%80-%EC%95%84%EB%8A%94-timeout%EC%9D%80-%EB%84%88%EB%AC%B4-%EC%B6%94%EC%83%81%EC%A0%81%EC%9D%B4%EC%98%80%EC%96%B4)
-- [Spark 맛보기 - 2. 스파크 애플리케이션 개념](https://blex.me/@mildsalmon/spark-%EB%A7%9B%EB%B3%B4%EA%B8%B0-2-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B0%9C%EB%85%90)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
