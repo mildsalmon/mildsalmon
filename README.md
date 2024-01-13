@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [[주간회고] 2024년 1월 2번째 주](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-1%EC%9B%94-1%EB%B2%88%EC%A7%B8-%EC%A3%BC-gxQb5TO1)
 - [[주간회고] 2024년 1월 1번째 주](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-1%EC%9B%94-1%EB%B2%88%EC%A7%B8-%EC%A3%BC)
 - [[2023 연말 회고] 나의 회고 일지](https://blex.me/@mildsalmon/2023-%EC%97%B0%EB%A7%90-%ED%9A%8C%EA%B3%A0-%EB%82%98%EC%9D%98-%ED%9A%8C%EA%B3%A0-%EC%9D%BC%EC%A7%80)
 - [[주간회고] 2023년 12월 52번째 주](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2023%EB%85%84-12%EC%9B%94-52%EB%B2%88%EC%A7%B8-%EC%A3%BC)
 - [Diving Into Delta Lake - Unpacking The Transaction Log](https://blex.me/@mildsalmon/diving-into-delta-lake-unpacking-the-transaction-log)
-- [Spark 맛보기 - 4. RDD, DataFrame, DataSet API](https://blex.me/@mildsalmon/spark-%EB%A7%9B%EB%B3%B4%EA%B8%B0-4-rdd-dataframe-dataset-api)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
