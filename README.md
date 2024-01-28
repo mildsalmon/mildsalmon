@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [[주간회고] 2024년 1월 4번째 주](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-1%EC%9B%94-4%EB%B2%88%EC%A7%B8-%EC%A3%BC)
 - [[주간회고] 2024년 1월 3번째 주](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-1%EC%9B%94-3%EB%B2%88%EC%A7%B8-%EC%A3%BC)
 - [함께 자라기](https://blex.me/@mildsalmon/2024-1-19-%EC%98%A4%EC%A0%84-82828)
 - [[주간회고] 2024년 1월 2번째 주](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-1%EC%9B%94-1%EB%B2%88%EC%A7%B8-%EC%A3%BC-gxQb5TO1)
 - [[주간회고] 2024년 1월 1번째 주](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-1%EC%9B%94-1%EB%B2%88%EC%A7%B8-%EC%A3%BC)
-- [[2023 연말 회고] 나의 회고 일지](https://blex.me/@mildsalmon/2023-%EC%97%B0%EB%A7%90-%ED%9A%8C%EA%B3%A0-%EB%82%98%EC%9D%98-%ED%9A%8C%EA%B3%A0-%EC%9D%BC%EC%A7%80)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
