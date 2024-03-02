@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [[주간회고] 2024년 9주차 &lpar;2월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-9%EC%A3%BC%EC%B0%A8-2%EC%9B%94)
 - [[주간회고] 2024년 8주차 &lpar;2월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-8%EC%A3%BC%EC%B0%A8-2%EC%9B%94-nEGNWcST)
 - [[주간회고] 2024년 7주차 &lpar;2월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-7%EC%A3%BC%EC%B0%A8-2%EC%9B%94)
 - [[주간회고] 2024년 6주차 &lpar;2월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-6%EC%A3%BC%EC%B0%A8-2%EC%9B%94)
 - [내 직무 정체성을 모르겠어요.](https://blex.me/@mildsalmon/%EB%82%B4-%EC%A7%81%EB%AC%B4-%EC%A0%95%EC%B2%B4%EC%84%B1%EC%9D%84-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EC%96%B4%EC%9A%94)
-- [[주간회고] 2024년 5주차 &lpar;2월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-2%EC%9B%94-1%EB%B2%88%EC%A7%B8-%EC%A3%BC)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
