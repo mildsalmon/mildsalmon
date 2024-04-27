@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [[주간회고] 2024년 17주차 &lpar;4월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-17%EC%A3%BC%EC%B0%A8-4%EC%9B%94)
 - [[주간회고] 2024년 16주차 &lpar;4월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-16%EC%A3%BC%EC%B0%A8-4%EC%9B%94)
 - [[주간회고] 2024년 15주차 &lpar;4월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-15%EC%A3%BC%EC%B0%A8-4%EC%9B%94)
 - [[주간회고] 2024년 14주차 &lpar;4월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-14%EC%A3%BC%EC%B0%A8-4%EC%9B%94)
 - [[주간회고] 2024년 13주차 &lpar;3월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-13%EC%A3%BC%EC%B0%A8-3%EC%9B%94)
-- [[주간회고] 2024년 12주차 &lpar;3월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-12%EC%A3%BC%EC%B0%A8-3%EC%9B%94)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
