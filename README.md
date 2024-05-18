@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [[주간회고] 2024년 20주차 &lpar;5월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-20%EC%A3%BC%EC%B0%A8-5%EC%9B%94)
 - [삶의 목표에 대한 고민](https://blex.me/@mildsalmon/%EC%82%B6%EC%9D%98-%EB%AA%A9%ED%91%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EB%AF%BC)
 - [[주간회고] 2024년 19주차 &lpar;5월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-19%EC%A3%BC%EC%B0%A8-5%EC%9B%94)
 - [[주간회고] 2024년 18주차 &lpar;5월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-18%EC%A3%BC%EC%B0%A8-5%EC%9B%94)
 - [[주간회고] 2024년 17주차 &lpar;4월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-17%EC%A3%BC%EC%B0%A8-4%EC%9B%94)
-- [[주간회고] 2024년 16주차 &lpar;4월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-16%EC%A3%BC%EC%B0%A8-4%EC%9B%94)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
