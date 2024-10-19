@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [[주간회고] 2024년 42주차 &lpar;10월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-42%EC%A3%BC%EC%B0%A8-10%EC%9B%94)
 - [[주간회고] 2024년 41주차 &lpar;10월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-41%EC%A3%BC%EC%B0%A8-10%EC%9B%94)
 - [[주간회고] 2024년 40주차 &lpar;10월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-40%EC%A3%BC%EC%B0%A8-10%EC%9B%94)
 - [[주간회고] 2024년 38주차 &lpar;9월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-38%EC%A3%BC%EC%B0%A8-9%EC%9B%94)
 - [[주간회고] 2024년 37주차 &lpar;9월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-37%EC%A3%BC%EC%B0%A8-9%EC%9B%94)
-- [[주간회고] 2024년 36주차 &lpar;9월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-36%EC%A3%BC%EC%B0%A8-9%EC%9B%94)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
