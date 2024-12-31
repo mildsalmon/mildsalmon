@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
+- [24년 회고를 하겠습니다. 근데 이제 ai를 곁들인](https://blex.me/@mildsalmon/24%EB%85%84-%ED%9A%8C%EA%B3%A0%EB%A5%BC-%ED%95%98%EA%B2%A0%EC%8A%B5%EB%8B%88%EB%8B%A4-%EA%B7%BC%EB%8D%B0-%EC%9D%B4%EC%A0%9C-ai%EB%A5%BC-%EA%B3%81%EB%93%A4%EC%9D%B8)
 - [[주간회고] 2024년 51주차 &lpar;12월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-51%EC%A3%BC%EC%B0%A8-12%EC%9B%94)
 - [[주간회고] 2024년 50주차 &lpar;12월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-50%EC%A3%BC%EC%B0%A8-12%EC%9B%94)
 - [[주간회고] 2024년 49주차 &lpar;12월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-49%EC%A3%BC%EC%B0%A8-12%EC%9B%94)
 - [[주간회고] 2024년 46주차 &lpar;11월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-46%EC%A3%BC%EC%B0%A8-11%EC%9B%94)
-- [[주간회고] 2024년 44주차 &lpar;10월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-44%EC%A3%BC%EC%B0%A8-10%EC%9B%94)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
