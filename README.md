@@ -19,6 +19,41 @@
 - [24년에 읽은 것 정리](https://blex.me/@mildsalmon/24%EB%85%84%EC%97%90-%EC%9D%BD%EC%9D%80-%EA%B2%83-%EC%A0%95%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
+```mermaid
+mindmap
+    id1["`**Root** with
+a second line
+Unicode works too: 🤓`"]
+      id2["`The dog in **the** hog... a *very long text* that wraps to a new line`"]
+      id3[Regular labels still works]
+      B[an <b>important</b> <a href='http://google.com'>link</a>]
+```
+
+![PlantUML model](http://plantuml.com:80/plantuml/png/dP0n3i8m34Ltdo8Z2BKdOEY0s1ZW1cxYYgfk1KaZL05t9r24JM61BV7xVhPSX1vz7rk6kkl9LsZ9h7d0aicSmPX5nSDi3bTGV1lHDf8uthzZnZA6O5RHDYCAfxfD9BrS7GwCWuvja1czaxHaNdE_wNVazeH_zCMo9Fz3soEwl6IPNbLLPH5TbJ40pqicaETQyWx4Cm5Q9KUVoZJIEeq-XGLrBhPy0m00)
+
+```plantuml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+   
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: Another authentication Response
+```
+
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
 
 [Study/readme.md at master · mildsalmon/Study (github.com)](https://github.com/mildsalmon/Study/blob/master/readme.md)
