@@ -12,11 +12,11 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
-- [[월간 회고] 2025-03](https://blex.me/@mildsalmon/%EC%9B%94%EA%B0%84-%ED%9A%8C%EA%B3%A0-2025-03)
-- [[월간 회고] 2025-02](https://blex.me/@mildsalmon/%EC%9B%94%EA%B0%84-%ED%9A%8C%EA%B3%A0-2025-02)
-- [[월간 회고] 2025-01](https://blex.me/@mildsalmon/%EC%9B%94%EA%B0%84-%ED%9A%8C%EA%B3%A0-2025-01)
-- [[주간회고] 2025년 1주차 &lpar;1월&rpar;](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2025%EB%85%84-1%EC%A3%BC%EC%B0%A8-1%EC%9B%94)
-- [24년에 읽은 것 정리](https://blex.me/@mildsalmon/24%EB%85%84%EC%97%90-%EC%9D%BD%EC%9D%80-%EA%B2%83-%EC%A0%95%EB%A6%AC)
+- [[월간 회고] 2025-03](http://blex.me/@mildsalmon/%EC%9B%94%EA%B0%84-%ED%9A%8C%EA%B3%A0-2025-03)
+- [[월간 회고] 2025-02](http://blex.me/@mildsalmon/%EC%9B%94%EA%B0%84-%ED%9A%8C%EA%B3%A0-2025-02)
+- [[월간 회고] 2025-01](http://blex.me/@mildsalmon/%EC%9B%94%EA%B0%84-%ED%9A%8C%EA%B3%A0-2025-01)
+- [[주간회고] 2025년 1주차 &lpar;1월&rpar;](http://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2025%EB%85%84-1%EC%A3%BC%EC%B0%A8-1%EC%9B%94)
+- [24년에 읽은 것 정리](http://blex.me/@mildsalmon/24%EB%85%84%EC%97%90-%EC%9D%BD%EC%9D%80-%EA%B2%83-%EC%A0%95%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😎 저는 이런 시스템을 만들어서 공부하고 있어요.
