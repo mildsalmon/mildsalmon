@@ -12,7 +12,7 @@
 ## 📝 최근에 이런 글을 작성했어요.
 
 <!-- BLOG-POST-LIST:START -->
-- [[Apache Iceberg] Iceberg의 탄생](http://blex.me/@mildsalmon/apache-iceberg-iceberg%EC%9D%98-%ED%83%84%EC%83%9D)
+- [[Apache Iceberg] Iceberg의 탄생 배경](http://blex.me/@mildsalmon/apache-iceberg-iceberg%EC%9D%98-%ED%83%84%EC%83%9D)
 - [24년에 읽은 것 정리](http://blex.me/@mildsalmon/24%EB%85%84%EC%97%90-%EC%9D%BD%EC%9D%80-%EA%B2%83-%EC%A0%95%EB%A6%AC)
 - [OOP를 곁들인 Data Quality Check](http://blex.me/@mildsalmon/data-quality-check%EB%A5%BC-%EC%9C%84%ED%95%9C-assert-runner-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 - [함께 자라기](http://blex.me/@mildsalmon/2024-1-19-%EC%98%A4%EC%A0%84-82828)
